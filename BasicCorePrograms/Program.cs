@@ -12,6 +12,9 @@ while (true)
         case 2:
             LeapYear.Yearmethod();
             break;
+        case 3:
+            PowerOf2.PowerOf2Method();
+            break;
         default:
             Console.WriteLine("Select correct option");
             break;
