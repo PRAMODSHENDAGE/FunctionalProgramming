@@ -2,7 +2,7 @@
 Console.WriteLine("Welcome to basic core program");
 while (true)
 {
-    Console.WriteLine("\nSelect program\n 1.Flip Coin\n 2.Leap Year\n 3.Power of 2\n 4.Harmonic Number\n 5.Factors");
+    Console.WriteLine("\nSelect program\n 1.Flip Coin\n 2.Leap Year\n 3.Power of 2\n 4.Harmonic Number\n 5.Factors\n 6.QuotientRemainder");
     int option = Convert.ToInt32(Console.ReadLine());
     switch (option)
     {
@@ -20,6 +20,9 @@ while (true)
             break;
         case 5:
             Factor.FactorMethod();
+            break;
+        case 6:
+            QuotientRemainder.QuotientandRemainder();
             break;
         default:
             Console.WriteLine("Select correct option");

@@ -1,0 +1,15 @@
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.exe
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.deps.json
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.runtimeconfig.json
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.dll
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\bin\Debug\net6.0\BasicCorePrograms.pdb
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.csproj.AssemblyReference.cache
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.GeneratedMSBuildEditorConfig.editorconfig
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfoInputs.cache
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.AssemblyInfo.cs
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.csproj.CoreCompileInputs.cache
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.dll
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\refint\BasicCorePrograms.dll
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.pdb
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\BasicCorePrograms.genruntimeconfig.cache
+D:\RFP\PP\FunctionalProgramming\BasicCorePrograms\obj\Debug\net6.0\ref\BasicCorePrograms.dll
