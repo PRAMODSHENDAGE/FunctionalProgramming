@@ -2,7 +2,7 @@
 Console.WriteLine("Welcome to basic core program");
 while (true)
 {
-    Console.WriteLine("\nSelect program\n 1.Flip Coin\n 2.Leap Year\n 3.Power of 2\n 4.Harmonic Number");
+    Console.WriteLine("\nSelect program\n 1.Flip Coin\n 2.Leap Year\n 3.Power of 2\n 4.Harmonic Number\n 5.Factors");
     int option = Convert.ToInt32(Console.ReadLine());
     switch (option)
     {
@@ -16,7 +16,10 @@ while (true)
             PowerOf2.PowerOf2Method();
             break;
         case 4:
-            PowerOf2.PowerOf2Method();
+            HarmonicNumber.HarmonicNumberMmethod();
+            break;
+        case 5:
+            Factor.FactorMethod();
             break;
         default:
             Console.WriteLine("Select correct option");
