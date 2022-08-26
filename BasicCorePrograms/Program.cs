@@ -2,7 +2,7 @@
 Console.WriteLine("Welcome to basic core program");
 while (true)
 {
-    Console.WriteLine("\nSelect program\n 1.Flip Coin\n 2.Leap Year\n 3.Power of 2\n 4.Harmonic Number\n 5.Factors\n 6.QuotientRemainder\n 7.Swap Numbers\n 8.Even or Odd");
+    Console.WriteLine("\nSelect program\n 1.Flip Coin\n 2.Leap Year\n 3.Power of 2\n 4.Harmonic Number\n 5.Factors\n 6.QuotientRemainder\n 7.Swap Numbers\n 8.Even or Odd\n 9.Vowel or Consonant");
     int option = Convert.ToInt32(Console.ReadLine());
     switch (option)
     {
@@ -29,6 +29,9 @@ while (true)
             break;
         case 8:
             EvenOdd.EvenOrOdd();
+            break;
+        case 9:
+            VowelConsonant.VowelOrConsonant();
             break;
         default:
             Console.WriteLine("Select correct option");
